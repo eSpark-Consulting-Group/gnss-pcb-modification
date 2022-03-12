@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [LTE GNSS Tracker.PcbDoc]
+   Generated File[Pick Place for LTE GNSS Tracker.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:31:56 AM On 2/5/2022

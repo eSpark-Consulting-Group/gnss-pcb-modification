@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LTE GNSS Tracker.PcbDoc   2/5/2022  12:31:55 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LTE GNSS Tracker-RoundHoles.TXT
+ASCII SlotHoles File : LTE GNSS Tracker-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             1183      PTH        93.00inch (2362.14mm)
+T2      16mil (0.4mm)                                             Round             14        PTH        0.44inch (11.21mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        1.84inch (46.66mm)
+T4      43mil (1.1mm)                                             Round             4         PTH        1.85inch (47.08mm)
+T5      47mil (1.2mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T6      100mil (2.54mm)                                           Round             4         PTH        7.82inch (198.62mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1210
+
+Total Processing Time (hh:mm:ss) : 00:00:00
