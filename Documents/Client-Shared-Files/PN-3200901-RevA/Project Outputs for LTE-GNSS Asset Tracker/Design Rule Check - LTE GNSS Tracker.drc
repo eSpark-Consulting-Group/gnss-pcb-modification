@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\XPENDER\Documents\GitHub\GNSS-PCB-Modification\Documents\Client-Shared-Files\PN-3200901-RevA\LTE GNSS Tracker.PcbDoc
-Date     : 3/13/2022
-Time     : 10:53:30 PM
+Date     : 3/15/2022
+Time     : 8:21:02 PM
 
 Processing Rule : Clearance Constraint (Gap=11.811mil) (InNetClass('RF')),(All)
 Rule Violations :0
