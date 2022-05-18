@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\Zachariah\Documents\NWES\South Bay Circuits\Chesapeake Mission Critical\Relay Board\PCB\Relay Board.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Default|Scope=Board|Minimum=8.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion from CAM settings|Scope=Board|Minimum=2.00
+RuleKind=Width|RuleName=Default Width|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

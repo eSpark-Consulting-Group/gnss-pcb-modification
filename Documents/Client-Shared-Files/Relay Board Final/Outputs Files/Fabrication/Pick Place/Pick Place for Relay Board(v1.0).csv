@@ -1,0 +1,25 @@
+Altium Designer Pick and Place Locations
+C:\Users\Zachariah\Documents\NWES\South Bay Circuits\Chesapeake Mission Critical\Relay Board\Outputs Files\Fabrication\Pick Place\Pick Place for Relay Board(v1.0).csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       11/05/22
+Time:       11:40
+Revision:   Not in VersionControl
+Variant:    v1.0
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"J1","0395321003","TopLayer","HDR1X3_MOLEX_TERMINAL","3185.630","2653.740","180","TERM BLOCK HDR 3POS 90DEG 5.08MM"
+"J2","0395321003","TopLayer","HDR1X3_MOLEX_TERMINAL","3230.610","-2653.740","0","TERM BLOCK HDR 3POS 90DEG 5.08MM"
+"J3","0395321006","TopLayer","HDR1X6_MOLEX_TERMINAL","1250.590","2653.740","180","TERM BLOCK HDR 6POS 90DEG 5.08MM"
+"J4","0395321006","TopLayer","HDR1X6_MOLEX_TERMINAL","-2181.890","2653.740","180","TERM BLOCK HDR 6POS 90DEG 5.08MM"
+"J5","0395321006","TopLayer","HDR1X6_MOLEX_TERMINAL","-778.150","2653.740","180","TERM BLOCK HDR 6POS 90DEG 5.08MM"
+"J6","0395321003","TopLayer","HDR1X3_MOLEX_TERMINAL","-3285.630","2653.740","180","TERM BLOCK HDR 3POS 90DEG 5.08MM"
+"J7","0395321010","TopLayer","HDR1X10_MOLEX_TERMINAL","-2585.630","-2653.740","0","TERM BLOCK HDR 10POS 5.08MM"
+"NE","J115F21C120VACS","TopLayer","RELAY_J115F2","3000.000","-900.000","0","RELAY UL & TUV GEN PURP SPDT 40A"
+"M2N","G6QE-1A DC24","TopLayer","RELAY_G6QE-1A_OMR","-1109.842","200.000","0","RELAY PWR PCB SPST-NO 32A 24VDC"
+"M2E","G6QE-1A DC24","TopLayer","RELAY_G6QE-1A_OMR","-2609.842","200.000","0","RELAY PWR PCB SPST-NO 32A 24VDC"
+"M1N","G6QE-1A DC24","TopLayer","RELAY_G6QE-1A_OMR","1890.158","200.000","0","RELAY PWR PCB SPST-NO 32A 24VDC"
+"M1E","G6QE-1A DC24","TopLayer","RELAY_G6QE-1A_OMR","390.158","200.000","0","RELAY PWR PCB SPST-NO 32A 24VDC"

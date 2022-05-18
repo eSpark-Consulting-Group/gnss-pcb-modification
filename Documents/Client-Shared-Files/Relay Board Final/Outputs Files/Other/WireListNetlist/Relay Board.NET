@@ -1,0 +1,111 @@
+Wire List
+
+<<< Component List >>>
+0395321003                      J1             HDR1X3_MOLEX_TERMINAL
+0395321003                      J2             HDR1X3_MOLEX_TERMINAL
+0395321006                      J3             HDR1X6_MOLEX_TERMINAL
+0395321006                      J4             HDR1X6_MOLEX_TERMINAL
+0395321006                      J5             HDR1X6_MOLEX_TERMINAL
+0395321003                      J6             HDR1X3_MOLEX_TERMINAL
+0395321010                      J7             HDR1X10_MOLEX_TERMINAL
+G6QE-1A DC24                    M1E            RELAY_G6QE-1A_OMR
+G6QE-1A DC24                    M1N            RELAY_G6QE-1A_OMR
+G6QE-1A DC24                    M2E            RELAY_G6QE-1A_OMR
+G6QE-1A DC24                    M2N            RELAY_G6QE-1A_OMR
+J115F21C120VACS                 NE             RELAY_J115F2
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00024] NetM1E_3
+        M1E        3       3              PASSIVE     G6QE-1A DC24
+        M1N        3       3              PASSIVE     G6QE-1A DC24
+        M2E        3       3              PASSIVE     G6QE-1A DC24
+        M2N        3       3              PASSIVE     G6QE-1A DC24
+        NE         3       COM            PASSIVE     J115F21C120VACS
+
+[00021] NetJ7_5
+        J7         5       5              PASSIVE     0395321010
+        M1E        2       2              PASSIVE     G6QE-1A DC24
+        M1N        2       2              PASSIVE     G6QE-1A DC24
+        M2E        2       2              PASSIVE     G6QE-1A DC24
+        M2N        2       2              PASSIVE     G6QE-1A DC24
+
+[00020] NetJ7_4
+        J7         4       4              PASSIVE     0395321010
+        M2E        1       1              PASSIVE     G6QE-1A DC24
+
+[00019] NetJ7_3
+        J7         3       3              PASSIVE     0395321010
+        M2N        1       1              PASSIVE     G6QE-1A DC24
+
+[00018] NetJ7_2
+        J7         2       2              PASSIVE     0395321010
+        M1E        1       1              PASSIVE     G6QE-1A DC24
+
+[00017] NetJ7_1
+        J7         1       1              PASSIVE     0395321010
+        M1N        1       1              PASSIVE     G6QE-1A DC24
+
+[00014] NetJ4_4
+        J4         4       4              PASSIVE     0395321006
+        J7         8       8              PASSIVE     0395321010
+
+[00013] NetJ4_3
+        J4         3       3              PASSIVE     0395321006
+        M2E        4       4              PASSIVE     G6QE-1A DC24
+
+[00012] NetJ4_2
+        J4         2       2              PASSIVE     0395321006
+        J5         6       6              PASSIVE     0395321006
+        J6         1       1              PASSIVE     0395321003
+
+[00011] NetJ4_1
+        J4         1       1              PASSIVE     0395321006
+        M2N        4       4              PASSIVE     G6QE-1A DC24
+
+[00009] NetJ3_5
+        J3         5       5              PASSIVE     0395321006
+        J4         5       5              PASSIVE     0395321006
+        J7         6       6              PASSIVE     0395321010
+
+[00008] NetJ3_4
+        J3         4       4              PASSIVE     0395321006
+        J7         7       7              PASSIVE     0395321010
+
+[00007] NetJ3_3
+        J3         3       3              PASSIVE     0395321006
+        M1E        4       4              PASSIVE     G6QE-1A DC24
+
+[00006] NetJ3_2
+        J3         2       2              PASSIVE     0395321006
+        J5         1       1              PASSIVE     0395321006
+        J5         4       4              PASSIVE     0395321006
+
+[00005] NetJ3_1
+        J3         1       1              PASSIVE     0395321006
+        M1N        4       4              PASSIVE     G6QE-1A DC24
+
+[00004] NetJ2_1
+        J2         1       1              PASSIVE     0395321003
+        NE         1       C1             PASSIVE     J115F21C120VACS
+        NE         4       NO             PASSIVE     J115F21C120VACS
+
+[00003] NetJ1_3
+        J1         3       3              PASSIVE     0395321003
+        J2         3       3              PASSIVE     0395321003
+        J5         3       3              PASSIVE     0395321006
+        J6         3       3              PASSIVE     0395321003
+
+[00002] NetJ1_2
+        J1         2       2              PASSIVE     0395321003
+        J2         2       2              PASSIVE     0395321003
+        J5         2       2              PASSIVE     0395321006
+        J6         2       2              PASSIVE     0395321003
+        NE         2       C2             PASSIVE     J115F21C120VACS
+
+[00001] NetJ1_1
+        J1         1       1              PASSIVE     0395321003
+        NE         5       NC             PASSIVE     J115F21C120VACS
+
