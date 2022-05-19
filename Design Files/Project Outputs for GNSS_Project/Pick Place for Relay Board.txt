@@ -1,0 +1,25 @@
+Altium Designer Pick and Place Locations
+E:\GNSS-PCB-Modification\Design Files\Project Outputs for GNSS_Project\Pick Place for Relay Board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       19/05/22
+Time:       12:00
+Revision:   00ca5c615e22c1d42d92fd97cb312465441671a0
+Variant:    No variations
+Units used: mil
+
+Designator Layer    Center-X(mil) Center-Y(mil) Rotation Ref-X(mil)   Ref-Y(mil)   Pad-X(mil)   Pad-Y(mil)   
+NE         TopLayer 3002,762mil   -897,320mil   0        3002,762mil  -897,320mil  2801,975mil  -1348,107mil 
+J1         TopLayer 3188,392mil   2656,420mil   180      3527,762mil  2577,680mil  3388,392mil  2656,420mil  
+J2         TopLayer 3233,372mil   -2651,060mil  0        2894,002mil  -2572,320mil 3033,372mil  -2651,060mil 
+J3         TopLayer 1253,352mil   2656,420mil   180      1892,722mil  2577,680mil  1753,352mil  2656,420mil  
+J4         TopLayer -2179,128mil  2656,420mil   180      -1539,758mil 2577,680mil  -1679,128mil 2656,420mil  
+J5         TopLayer -775,388mil   2656,420mil   180      -136,018mil  2577,680mil  -275,388mil  2656,420mil  
+J6         TopLayer -3282,868mil  2656,420mil   180      -2943,498mil 2577,680mil  -3082,868mil 2656,420mil  
+J7         TopLayer -2582,867mil  -2651,060mil  0        -3622,238mil -2572,320mil -3482,867mil -2651,060mil 
+M2N        TopLayer -1107,080mil  202,680mil    0        -1097,238mil 202,680mil   -870,860mil  675,121mil   
+M2E        TopLayer -2607,080mil  202,680mil    0        -2597,238mil 202,680mil   -2370,860mil 675,121mil   
+M1N        TopLayer 1892,920mil   202,680mil    0        1902,762mil  202,680mil   2129,140mil  675,121mil   
+M1E        TopLayer 392,920mil    202,680mil    0        402,762mil   202,680mil   629,140mil   675,121mil   

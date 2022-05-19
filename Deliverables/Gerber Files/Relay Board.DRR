@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Relay Board.PcbDoc   5/19/2022  11:58:27 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom Layer
+ASCII RoundHoles File : Relay Board.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.406mm)                                           Round             12        PTH        0.87inch (22.14mm)
+T2      30mil (0.762mm)         +/-3mil (0.075mm)                 Round             22        PTH        2.76inch (70.15mm)
+T3      43mil (1.1mm)           +/-3mil (0.075mm)                 Round             2         PTH        0.40inch (10.20mm)
+T4      51mil (1.3mm)           +/-3mil (0.075mm)                 Round             8         PTH        9.87inch (250.60mm)
+T5      63mil (1.6mm)           +/-3mil (0.075mm)                 Round             37        PTH        19.10inch (485.02mm)
+T6      71mil (1.8mm)           +/-3mil (0.075mm)                 Round             8         PTH        10.09inch (256.20mm)
+T7      98mil (2.5mm)           +/-3mil (0.075mm)                 Round             3         PTH        1.10inch (28.07mm)
+T8      197mil (5mm)            +/-5mil (0.127mm)                 Round             4         NPTH       20.75inch (527.05mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              96
+
+Total Processing Time (hh:mm:ss) : 00:00:00
